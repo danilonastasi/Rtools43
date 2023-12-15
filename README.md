@@ -6,4 +6,4 @@ It is possible to download and installing Rtools43 from the website: https://cra
 ***It is recommended to use the defaults and install into c:/rtools43***
 
 In order to get old packages is possible to find them through this link: https://cran.r-project.org/src/contrib/Archive/ <br> or looking for them, searching on internet and typing *"name_package" CRAN package*, some of them are archived so you need to get it through the CRAN archive. <br>
-Downloading the package can be important to read the file *DESCRIPTION* in order to understand if the package needs other packages to be installed.
+Downloading the package can be important to read the file *"DESCRIPTION"* in order to understand if the package needs other packages to be installed.
